@@ -1,5 +1,7 @@
 # gcc-disassemble
 
+If you see any code snippet skip. When you are done, then try understanding them. Else you are just killing your precious times.
+
 ## The program in `.c`(recommended) or `.cpp`
 
 For this purpose, I worte a simple program. Like this:
