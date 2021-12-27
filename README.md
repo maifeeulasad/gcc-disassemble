@@ -26,6 +26,8 @@ It will/should generate two files
  - `code.i`-> this is the pre-processed source
  - `code.s` -> this is the assembly source generate using *GNU-GCC* compiler
 
+Yes, there is a `-S` argument, but why haven't we used that? That's a question to humanity, lol.
+
 ### Pre-processed source
 Looks like this:
 ```
