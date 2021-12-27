@@ -1,6 +1,9 @@
 # gcc-disassemble
 
-If you see any code snippet skip. When you are done, then try understanding them. Else you are just killing your precious times.
+ <p align="center">
+ :warning: <b>If you see any code snippet skip. When you are done, then try understanding them. Else you are just killing your precious times.</b> :warning:
+ </p>
+
 
 ## The program in `.c`(recommended) or `.cpp`
 
