@@ -72,3 +72,11 @@ main:
 	.align 8
 4:
 ```
+
+Yes, it is hard to understand. But ignore it for now. Why? Cause it is the simplest program in the world, but which has a `printf` function call inside it. So there are tons of complex graphics calculations being done. And at twenty-first century, we take all these for granted.
+
+Then why are we looking at this? Cause, this is will give us enough confidence that, learning assembly is easy and hacky(we all love that, at least I guess).
+
+So this was the step to generate assembly code from C programs.
+
+Now we will be co-relating, or at least try example from books or web and try to learn how to write these program, on our own.
