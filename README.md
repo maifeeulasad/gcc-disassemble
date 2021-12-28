@@ -29,7 +29,10 @@ It will/should generate two files
 Yes, there is a `-S` argument, but why haven't we used that? That's a question to humanity, lol.
 
 ### Pre-processed source
-Looks like this:
+
+<details>
+	<summary>Looks like this:</summary>
+	
 ```
 # 1 "code.c"
 # 1 "<built-in>"
@@ -764,9 +767,13 @@ int main(){
 }
 
 ```
-### Assembly source
 
-The code looks something like this:
+</details>
+	
+### Assembly source
+<details>
+ <summary>The code looks something like this:</summary>
+	
 ```
 	.file	"code.c"
 	.text
@@ -814,6 +821,8 @@ main:
 	.align 8
 4:
 ```
+</details>
+
 
 Yes, it is hard to understand. But ignore it for now. Why? Cause it is the simplest program in the world, but which has a `printf` function call inside it. So there are tons of complex graphics calculations being done. And at twenty-first century, we take all these for granted.
 
